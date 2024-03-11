@@ -1,1 +1,3 @@
 # touchpad
+
+In competitive swimming, strategically placed aquatic touchpads play a vital role in ensuring fair and accurate lap timekeeping. As a swimmer reaches the end of each lap and touches the flat, electronic panel, built-in pressure sensors detect the contact. This triggers a signal that instantaneously stops the individual swimmer's timer on the central timing system. This precise technology eliminates human error from the timekeeping process, guaranteeing that every competitor's lap times are measured with utmost accuracy. These recorded lap times are then displayed on scoreboards or used for further competition analysis.
