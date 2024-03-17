@@ -30,7 +30,7 @@ lane5_name = lane5[0]
 lane5_state = lane5[1]
 
 lane6 = cont[5].split(",")
-lane6_name = lane6[0]
+lane6_name = lane6[0] hgjkl;
 lane6_state = lane6[1]
 
 lane7 = cont[6].split(",")
